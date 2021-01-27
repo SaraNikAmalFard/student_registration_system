@@ -1,7 +1,7 @@
 # student_registration_system
 
 Welcome to this project. Here I have shared with you the UML diagram and source code of a student registration system implemented in C++ .<br/>
-This project complies with Object Oriented principles. <br/>
+This project complies with object oriented programming principles. <br/>
 The database used for this project is a text file , so the project contains reading and writing from files.<br/> 
 To compile and run the project you need to use g++ , or any other IDE that supports C++ compilation such as VS-Code.<br/>
 Below is the UML diagram I have created for this project : <br/>
