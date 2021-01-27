@@ -1,0 +1,9 @@
+1001 Sara Nikamalfard London CS Mustafa 1 0 2 3 ECS110P ECS110G ECS110H 
+1002 Lily Jefrey Moscow Maths Mustafa 2 0 2 3 MTS110P MTS110G MTS100H 
+1003 Mike Castalleti Frankfurt EE Pat 2 0 2 3 EE110P EE110G EE110H 
+1004 Niki Anderson Tokyo CS Melissa 3 2 1 4 ECS110K ECS110L ECS110M ECS110A 
+1005 Miriam Kien London CS Melissa 1 2 1 4 ECS110A ECS110B ECS110M ECS110L 
+1006 Miley Patterson Washington Maths Mustafa 3 1 3 2 MTS100K MTS100H 
+1007 Liam Jackson London CS Paul 1 4 3 3 ECS112R ECS112T ECS122Y 
+1008 Jefrey Burrows Tehran Maths Mary 1 1 3 2 MTS110P MTS111R 
+1009 Lisa Fairr Bod-street Maths Robert-s 2 1 1 4 MTS111P MTS111Q MTS111R 1010 
