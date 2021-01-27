@@ -19,4 +19,9 @@ etc.<br/>
 .
 .
 .
+<br/>
+UML diagram of the project can be found below: <br/>
+![UML](https://user-images.githubusercontent.com/20257006/106060683-3bfe4500-60ec-11eb-9a5d-2695d3a23fb8.jpg)
+<br/>
+Should you have any questions about the project please feel free to contact me: sarah_nikamalfard@yahoo.com<br>
 
