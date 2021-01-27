@@ -7,15 +7,15 @@ To compile and run the project you need to use g++ , or any other IDE that suppo
 There exists 2 hierarchy in this project , general Student class , and three subclasses  , BSc students , MSc students and PhD students. All these students have some common functionalities which is implemented in the parent class , and have some different manners.
 All processes such as enrolment in modules , all searches and etc. is done in a separate class called StudentRegistration. Som functionalities of the system are as follows:
 
-*Student Enrolment
-*Removing a student
-*Showing all students
-*Finding a student by his/her ID
-*Finding students by their mode of study (type)
-*Finding all students who have enrolled for the same module
-*Searching all MSc students by their departments
-*Searching all BSc students by their advisor
-etc.
+*Student Enrolment<br/>
+*Removing a student<br/>
+*Showing all students<br/>
+*Finding a student by his/her ID<br/>
+*Finding students by their mode of study (type)<br/>
+*Finding all students who have enrolled for the same module<br/>
+*Searching all MSc students by their departments<br/>
+*Searching all BSc students by their advisor<br/>
+etc.<br/>
 .
 .
 .
